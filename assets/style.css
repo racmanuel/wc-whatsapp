@@ -1,0 +1,24 @@
+a#whatsapp {
+    color: #00bb2d;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 2.15384615;
+    min-height: 30px;
+    margin: 0;
+    padding: 0 10px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+a#whatsapp:hover {
+    background-color: #00bb2d;
+    color: white;
+}
+span.dashicons.dashicons-whatsapp {
+    padding: 6% 0%;
+}
